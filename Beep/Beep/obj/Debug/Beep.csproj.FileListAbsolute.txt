@@ -1,0 +1,7 @@
+C:\Users\Desen10\source\repos\Beep\Beep\bin\Debug\Beep.exe.config
+C:\Users\Desen10\source\repos\Beep\Beep\bin\Debug\Beep.exe
+C:\Users\Desen10\source\repos\Beep\Beep\bin\Debug\Beep.pdb
+C:\Users\Desen10\source\repos\Beep\Beep\obj\Debug\Beep.csproj.AssemblyReference.cache
+C:\Users\Desen10\source\repos\Beep\Beep\obj\Debug\Beep.csproj.CoreCompileInputs.cache
+C:\Users\Desen10\source\repos\Beep\Beep\obj\Debug\Beep.exe
+C:\Users\Desen10\source\repos\Beep\Beep\obj\Debug\Beep.pdb
